@@ -1,6 +1,6 @@
 ## eBPF
 
-eBPF is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel. It is used to safely and efficiently extend the capabilities of the kernel without requiring to change kernel source code or load kernel modules.
+eBPF (enhanced Berkeley Packet Filter) is a revolutionary technology with origins in the Linux kernel that can run sandboxed programs in an operating system kernel. It is used to safely and efficiently extend the capabilities of the kernel without requiring to change kernel source code or load kernel modules.
 
 eBPF is a kernel technology that allows to dynamically extend the functionalities of the Linux kernel at runtime.
 
@@ -40,7 +40,7 @@ go build
 * [eBPF.io](https://ebpf.io/)
 * [Books](https://ebpf.io/get-started/#books)
 * [Labs](https://ebpf.io/labs/)
-* [eBpf-go(used here)](https://ebpf-go.dev/guides/getting-started/)
+* [eBPF-go(used here)](https://ebpf-go.dev/guides/getting-started/)
 
 ## Footnote
 
